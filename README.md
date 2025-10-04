@@ -46,6 +46,7 @@ Some quick facts:
 - 🤖 **Embedded System Projects (A series of mini projects)** 
 - ⚙️ **Rust Learning Projects (Rust)**  
 - 📊 **Data Science mini-projects in R (UT Austin GSI program)**  
+- 🖇️ **DSA Mini projects in C++ (Course work)**
 
 *(new projects & Rust repos coming soon…)*  
 
