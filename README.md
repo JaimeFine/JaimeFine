@@ -43,7 +43,7 @@ Some quick facts:
 ---
 
 ## 📂 Featured Projects
-- 🤖 **Gesture Recognition & Servos Project** (C++, OpenCV)   
+- 🤖 **Embedded System Projects (A series of mini projects)** 
 - ⚙️ **Rust Learning Projects (Rust)**  
 - 📊 **Data Science mini-projects in R (UT Austin GSI program)**  
 
