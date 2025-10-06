@@ -10,7 +10,7 @@ I’ve always believed in building a life where **creativity blend with cognitio
 
 Some quick facts:  
 - 💻 Interested in **systems programming**, **embedded devices**, **data analysis**, and **AI at the edge**.  
-- 🌱 Currently sharpening my **Rust** for a future internship and exploring **EV**, **energy & sustainability**, and **entrepreneurship**.  
+- 🌱 Willing to explore **EV**, **energy & sustainability**, and **entrepreneurship**.  
 - 📚 Background in **Rust**, **R for data analysis and visualization**, **Linux systems**, **Python**, and **C++**.  
 - 🌍 Fluent in **4 languages** (English, Chinese, German, Spanish, and more but not 'fluent'), with experience navigating diverse cultures.  
 - 🎶 Ex-professional amateur **musician & composer**.  
