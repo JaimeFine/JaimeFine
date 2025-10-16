@@ -40,6 +40,13 @@ Some quick facts:
 - 🌱 Exploring **Energy & Sustainability**, **Psychology & Behaviour**, and **Business & Entrepreneurship** alongside CS.  
 - 🎯 Shifting from “just thinking” to **action & creation**.  
 
+![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeFine&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaimeFine&theme=tokyonight)
+
+
 ---
 
 ## 📂 Featured Projects
