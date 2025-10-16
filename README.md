@@ -49,7 +49,7 @@ Some quick facts:
   <p><img src="https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeFine&theme=tokyonight&hide_border=true" /></p>
 -->
-  <p><img src="[https://raw.githubusercontent.com/JaimeFine/metrics.plugin.languages.svg](https://raw.githubusercontent.com/JaimeFine/JaimeFine/refs/heads/main/metrics.plugin.isocalendar.svg?token=GHSAT0AAAAAAC73L2XUHGGGVC44Z4PECIWC2HRBQOQ)" alt="Isometric Commit Calendar" /></p>
+  <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" /></p>
   <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.languages.svg" alt="Languages Activity" /></p>
 </div>
 
