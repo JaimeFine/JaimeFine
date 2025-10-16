@@ -60,14 +60,6 @@ Some quick facts:
   <img src="https://raw.githubusercontent.com/jaimecodes/jaimecodes/main/github-metrics.svg" alt="Metrics" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaimecodes&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimecodes&layout=compact&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimecodes&theme=tokyonight" />
-</p>
-
 ---
 
 ## 📂 Featured Projects
