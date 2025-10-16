@@ -45,24 +45,13 @@ Some quick facts:
 ## 🔥 GitHub Stats
 
 <div align="center">
+<!--
   <p><img src="https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeFine&theme=tokyonight&hide_border=true" /></p>
-  <p><img src="https://raw.githubusercontent.com/JaimeFine/metrics.plugin.languages.svg" alt="Languages Activity" /></p>
+-->
+  <p><img src="[https://raw.githubusercontent.com/JaimeFine/metrics.plugin.languages.svg](https://raw.githubusercontent.com/JaimeFine/JaimeFine/refs/heads/main/metrics.plugin.isocalendar.svg?token=GHSAT0AAAAAAC73L2XUHGGGVC44Z4PECIWC2HRBQOQ)" alt="Isometric Commit Calendar" /></p>
+  <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.languages.svg" alt="Languages Activity" /></p>
 </div>
-
----
-
-## 🧙 Metrics Dashboard
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JaimeFine/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JaimeFine/JaimeFine/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
-  <br>
-  <img src="https://raw.githubusercontent.com/JaimeFine/JaimeFine/metrics.plugin.languages.svg" alt="Languages Activity" />
-</p>
 
 ---
 
@@ -70,7 +59,7 @@ Some quick facts:
 - 🤖 **Embedded System Projects (A series of mini projects)** 
 - ⚙️ **Rust Learning Projects (Rust)**  
 - 📊 **Data Science mini-projects in R (UT Austin GSI program)**  
-- 🖇️ **DSA Mini projects in C++ (Course work)**
+- 🖇️ **Coding Challenges**
 
 *(new projects & Rust repos coming soon…)*  
 
