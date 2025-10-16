@@ -47,20 +47,12 @@ Some quick facts:
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight" />
-
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeFine&layout=compact&theme=tokyonight" />
-
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeFine&theme=tokyonight" />
 
 </div>
-
-
-![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeFine&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaimeFine&theme=tokyonight)
-
 
 ---
 
