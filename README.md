@@ -47,7 +47,7 @@ Some quick facts:
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeFine&theme=tokyonight&hide_border=true" /></p>
-  <p><img src="https://raw.githubusercontent.com/JaimeFine/main/metrics.plugin.languages.svg" alt="Languages Activity" /></p>
+  <p><img src="https://raw.githubusercontent.com/JaimeFine/metrics.plugin.languages.svg" alt="Languages Activity" /></p>
 </div>
 
 ---
@@ -55,13 +55,13 @@ Some quick facts:
 ## 🧙 Metrics Dashboard
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JaimeFine/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
+  <img src="https://raw.githubusercontent.com/JaimeFine/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JaimeFine/JaimeFine/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
+  <img src="https://raw.githubusercontent.com/JaimeFine/JaimeFine/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
   <br>
-  <img src="https://raw.githubusercontent.com/JaimeFine/JaimeFine/main/metrics.plugin.languages.svg" alt="Languages Activity" />
+  <img src="https://raw.githubusercontent.com/JaimeFine/JaimeFine/metrics.plugin.languages.svg" alt="Languages Activity" />
 </p>
 
 ---
