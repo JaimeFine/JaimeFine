@@ -38,7 +38,22 @@ Some quick facts:
 - 🦀 Becoming proficient in **Rust** and preparing for an **internship**.  
 - 📖 Preparing for the **DELE Spanish exam**.  
 - 🌱 Exploring **Energy & Sustainability**, **Psychology & Behaviour**, and **Business & Entrepreneurship** alongside CS.  
-- 🎯 Shifting from “just thinking” to **action & creation**.  
+- 🎯 Shifting from “just thinking” to **action & creation**.
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeFine&layout=compact&theme=tokyonight" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeFine&theme=tokyonight" />
+
+</div>
+
 
 ![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight)
 
