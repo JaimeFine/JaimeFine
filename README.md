@@ -45,11 +45,9 @@ Some quick facts:
 ## 🔥 GitHub Stats
 
 <div align="center">
-
   <p><img src="https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeFine&layout=compact&theme=tokyonight&hide_border=true" /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeFine&theme=tokyonight&hide_border=true" /></p>
-
 </div>
 
 ---
