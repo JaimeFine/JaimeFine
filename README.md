@@ -46,13 +46,27 @@ Some quick facts:
 
 <div align="center">
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeFine&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaimeFine&theme=tokyonight&hide_border=true)
+  <p><img src="https://github-readme-stats.vercel.app/api?username=jaimecodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimecodes&layout=compact&theme=tokyonight&hide_border=true" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimecodes&theme=tokyonight&hide_border=true" /></p>
 
 </div>
+
+---
+
+## 🧙 Metrics Dashboard
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaimecodes/jaimecodes/main/github-metrics.svg" alt="Metrics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaimecodes&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimecodes&layout=compact&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimecodes&theme=tokyonight" />
+</p>
 
 ---
 
@@ -71,6 +85,13 @@ Some quick facts:
 - ✉️ Email: --???-- 
 
 ---
+
+<div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JaimeFine&color=blueviolet&style=flat-square) 
+
+</div>
+
 <!--
 ## 🌌 Personal Motto
 > *“Think deeply, create boldly, act decisively — across disciplines.”*  
