@@ -58,6 +58,12 @@ Some quick facts:
   <img src="https://raw.githubusercontent.com/jaimecodes/jaimecodes/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaimeFine/JaimeFine/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
+  <br>
+  <img src="https://raw.githubusercontent.com/JaimeFine/JaimeFine/main/metrics.plugin.languages.svg" alt="Languages Activity" />
+</p>
+
 ---
 
 ## 📂 Featured Projects
