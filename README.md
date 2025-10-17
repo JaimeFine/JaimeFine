@@ -1,6 +1,12 @@
-# 👋 Hey there, I'm Jaime Fan  
-
-🎓 Computer Science Student | 🌍 International Collaborator | 🌀 Interdisciplinary Explorer | 🎨 Artistic Creator | ⚡ Future Entrepreneur (My future goal)
+<h1 align="center">
+  👋 Hey there, I'm Jaime Fan 
+</h1>
+ 
+<div align="center">
+  <p>🎓 Computer Science Student | 🌍 International Collaborator | 🌀 Interdisciplinary Explorer</p>
+  <br>
+  <p>🎨 Artistic Creator | ⚡ Future Entrepreneur (My future goal)</p>
+</div>
 
 ---
 
