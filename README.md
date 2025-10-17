@@ -1,20 +1,20 @@
-# 👋 Hey there, I'm Jaime Sean Fan  
+# 👋 Hey there, I'm Jaime Fan  
 
 🎓 Computer Science Student | 🌍 International Collaborator | 🌀 Interdisciplinary Explorer | 🎨 Artistic Creator | ⚡ Future Entrepreneur (My future goal)
 
 ---
 
 ## 🌟 About Me
-I’m Jaime, currently a sophomore studying **Computer Science**, with a mind that naturally flows between **technology, art, and strategy**.  
+I’m Jaime (that is obviously my pseudonym), currently a sophomore studying **Computer Science**, with a mind that naturally blend **technology, art, and strategy**.  
 I’ve always believed in building a life where **creativity blend with cognition**, and where learning is not just a requirement but a lifestyle.  
 
 Some quick facts:  
-- 💻 Interested in **systems programming**, **embedded devices**, **data analysis**, and **AI at the edge**.  
-- 🌱 Willing to explore **EV**, **energy & sustainability**, and **entrepreneurship**.  
+- 💻 Interested in **embodied AI**, **embedded system**, **data analysis**, and **edge AI deployment**.  
+- 🌱 Willing to explore **EV**, **robotics**, and **entrepreneurship**.  
 - 📚 Background in **Rust**, **R for data analysis and visualization**, **Linux systems**, **Python**, and **C++**.  
 - 🌍 Fluent in **4 languages** (English, Chinese, German, Spanish, and more but not 'fluent'), with experience navigating diverse cultures.  
 - 🎶 Ex-professional amateur **musician & composer**.  
-- 🏃 Love to play **football**, **badminton**, and **citywalking**.  
+- 🏃 Enthusiast of **football**, **badminton**, and **citywalking**.  
 - 🧩 A fan of complex **origami**, also interested in early modern english literature and poetry. 
 - ✨ Long-term vision: **finish undergraduate and postgraduate studies**, **building a company**, and leaving a mark in this world.  
 
@@ -22,22 +22,23 @@ Some quick facts:
 
 ## 🔧 Tech & Tools
 ### Languages & Frameworks
-- **Rust** | **C / C++** | **Python**  
-- **R** | **Bash** | **HTML & CSS (basic)**  
+- Be with **Rust** since 2025
+- Experience of **C / C++** since 2024
+- Experience of **Python** just like every dev
+- Also good **R** | **Bash (enough to use)** | **HTML & CSS (basic)**  
 
 ### Hardware & Embedded Experience
-- **Raspberry Pi (PiCamera)** | **Jetson Orin Nano** | **Z80 Computer (DIY build but failed)**  
-- **Hardware–Software Integration** | **Servo & robotics control with C++**  
+- **Raspberry Pi** | **Jetson Orin Nano** | **Z80 Computer (DIY build but failed)** | **Hardware control with C++**  
 
 ### Other Skills
-- **Linux (intermediate user)** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
+- **Linux (enough to use)** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
 
 ---
 
 ## 🚀 Current Focus
-- 🦀 Becoming proficient in **Rust** and preparing for an **internship**.  
-- 📖 Preparing for the **DELE Spanish exam**.  
-- 🌱 Exploring **Energy & Sustainability**, **Psychology & Behaviour**, and **Business & Entrepreneurship** alongside CS.  
+- 🦀 Becoming proficient in **Rust** and preparing for an **internship in 2025 winter**.  
+- 📖 Preparing for the **DELE Spanish exam for November**.  
+- 🌱 Exploring **Psychology & Behaviour** and **Business & Entrepreneurship** alongside CS.  
 - 🎯 Shifting from “just thinking” to **action & creation**.
 
 ---
@@ -56,12 +57,12 @@ Some quick facts:
 ---
 
 ## 📂 Featured Projects
-- 🤖 **Embedded System Projects (A series of mini projects)** 
-- ⚙️ **Rust Learning Projects (Rust)**  
-- 📊 **Data Science mini-projects in R (UT Austin GSI program)**  
-- 🖇️ **Coding Challenges**
+- 🤖 **[Embedded System Projects (A series of mini projects)](https://github.com/JaimeFine/Embedded_System_Projects)** 
+- ⚙️ **[Rust Learning Projects (Rust)](https://github.com/JaimeFine/Rust_Learning_Projects)**  
+- 📊 **[GSI data science project (UT Austin GSI program)](https://github.com/JaimeFine/GSI_Data_R)**  
+- 🖇️ **[Coding Challenges (C++)](https://github.com/JaimeFine/Coding_Challenges)**
 
-*(new projects & Rust repos coming soon…)*  
+*(new projects & repos coming soon…)*  
 
 ---
 
