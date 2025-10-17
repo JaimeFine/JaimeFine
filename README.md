@@ -4,7 +4,6 @@
  
 <div align="center">
   <p>🎓 Computer Science Student | 🌍 International Collaborator | 🌀 Interdisciplinary Explorer</p>
-  <br>
   <p>🎨 Artistic Creator | ⚡ Future Entrepreneur (My future goal)</p>
 </div>
 
