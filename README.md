@@ -75,6 +75,8 @@ Some quick facts:
 - 🌐 LinkedIn: --???--
 - ✉️ Email: --???-- 
 
+<!--
+
 ---
 
 <div>
@@ -83,7 +85,6 @@ Some quick facts:
 
 </div>
 
-<!--
 ## 🌌 Personal Motto
 > *“Think deeply, create boldly, act decisively — across disciplines.”*  
 
