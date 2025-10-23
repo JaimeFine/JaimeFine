@@ -10,8 +10,8 @@
 ---
 
 ## 🌟 About Me
-I’m Jaime (that is obviously my pseudonym), currently a sophomore studying **Computer Science**, with a mind that naturally blend **technology, art, and strategy**.  
-I’ve always believed in building a life where **creativity blend with cognition**, and where learning is not just a requirement but a lifestyle.  
+I’m Jaime (that is obviously my pseudonym), currently a sophomore studying **Computer Science**, with a mind that naturally flows between **technology, art, and strategy**.  
+I’ve always believed in building a life where **creativity based on cognition**, and where learning is not just for score and fame but a lifestyle.  
 
 Some quick facts:  
 - 💻 Interested in **embodied AI**, **embedded system**, **data analysis**, and **edge AI deployment**.  
@@ -30,10 +30,10 @@ Some quick facts:
 - Be with **Rust** since 2025
 - Experience of **C / C++** since 2024
 - Experience of **Python** just like every dev
-- Also good **R** | **Bash (enough to use)** | **HTML & CSS (basic)**  
+- Also good with **R** | **Linux commands (enough to use)** | **HTML & CSS (basic)**  
 
 ### Hardware & Embedded Experience
-- **Raspberry Pi** | **Jetson Orin Nano** | **Z80 Computer (DIY build but failed)** | **Hardware control with C++**  
+- **Raspberry Pi** | **Jetson Orin Nano Super** | **Z80 Computer (DIY built but failed)** | **Hardware control with C++**  
 
 ### Other Skills
 - **Linux (enough to use)** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
@@ -41,9 +41,10 @@ Some quick facts:
 ---
 
 ## 🚀 Current Focus
-- 🦀 Becoming proficient in **Rust** and preparing for an **internship in 2025 winter**.  
+
+- 🦀 Becoming proficient in **Rust**.
 - 📖 Preparing for the **DELE Spanish exam for November**.  
-- 🌱 Exploring **Psychology & Behaviour** and **Business & Entrepreneurship** alongside CS.  
+- 🌱 Studying CS in my college.  
 - 🎯 Shifting from “just thinking” to **action & creation**.
 
 ---
@@ -62,6 +63,7 @@ Some quick facts:
 ---
 
 ## 📂 Featured Projects
+
 - 🤖 **[Embedded System Projects (A series of mini projects)](https://github.com/JaimeFine/Embedded_System_Projects)** 
 - ⚙️ **[Rust Learning Projects (Rust)](https://github.com/JaimeFine/Rust_Learning_Projects)**  
 - 📊 **[GSI data science project (UT Austin GSI program)](https://github.com/JaimeFine/GSI_Data_R)**  
@@ -69,13 +71,12 @@ Some quick facts:
 
 *(new projects & repos coming soon…)*  
 
----
+<!--
 
 ## 📫 Let’s Connect
+
 - 🌐 LinkedIn: --???--
 - ✉️ Email: --???-- 
-
-<!--
 
 ---
 
