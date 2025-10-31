@@ -75,8 +75,9 @@ Some quick facts:
 -->
   <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" /></p>
   <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.languages.svg" alt="Languages Activity" /></p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeFine)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeFine)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
