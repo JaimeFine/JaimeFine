@@ -39,16 +39,18 @@ Some quick facts:
 - **Linux (enough to use)** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
 
 <p align="center">
-  <img src="icons/rust-original.svg" alt="Test" width="75" height="75">
-  <img src="icons/cplusplus-original.svg" alt="Test" width="75" height="75">
-  <img src="icons/r-original.svg" alt="Test" width="75" height="75">
-  <img src="icons/linux-original.svg" alt="Test" width="75" height="75">
-  <img src="icons/ubuntu-original.svg" alt="Test" width="75" height="75">
-  <img src="icons/tensorflow-original.svg" alt="Test" width="75" height="75">
-  <img src="icons/opencv-original.svg" alt="Test" width="75" height="75">
-  <img src="icons/keras-original.svg" alt="Test" width="75" height="75">
-  <img src="icons/python-original.svg" alt="Test" width="75" height="75">
-  <img src="icons/julia-original.svg" alt="Test" width="75" height="75">
+  <img src="icons/rust-original.svg" title="Rust" width="75" height="75">
+  <img src="icons/cplusplus-original.svg" title="C++" width="75" height="75">
+  <img src="icons/r-original.svg" title="R" width="75" height="75">
+  <img src="icons/linux-original.svg" title="Linux" width="75" height="75">
+  <img src="icons/ubuntu-original.svg" title="Ubuntu" width="75" height="75">
+  <img src="icons/tensorflow-original.svg" title="TensorFlow" width="75" height="75">
+  <img src="icons/opencv-original.svg" title="OpenCV" width="75" height="75">
+  <img src="icons/keras-original.svg" title="Keras" width="75" height="75">
+  <img src="icons/python-original.svg" title="Python" width="75" height="75">
+  <img src="icons/julia-original.svg" title="Julia" width="75" height="75">
+  <img src="icons/html5-original.svg" title="Julia" width="75" height="75">
+  <img src="icons/css3-original.svg" title="Julia" width="75" height="75">
 </p>
 
 > Icons provided by [Devicon](https://github.com/devicons/devicon) under the MIT License.
