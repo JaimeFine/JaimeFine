@@ -38,6 +38,8 @@ Some quick facts:
 ### Other Skills
 - **Linux (enough to use)** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
 
+---
+
 <p align="center">
   <img src="icons/rust-original.svg" width="50" height="50">
   <img src="icons/cplusplus-original.svg" width="50" height="50">
