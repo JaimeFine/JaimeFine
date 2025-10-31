@@ -38,6 +38,8 @@ Some quick facts:
 ### Other Skills
 - **Linux (enough to use)** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
 
+![Test](icons/r-original.svg)
+
 ---
 
 ## 🚀 Current Focus
