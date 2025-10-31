@@ -93,9 +93,9 @@ Some quick facts:
   <img src="icons/css3-original.svg" width="50" height="50">
 </p>
 
-<div style="font-size:3px; color:gray; text-align:center;">
-  Icons provided by <a href="https://github.com/devicons/devicon" style="color:gray;">Devicon</a> under the MIT License.
-</div>
+<p align="center">
+  <sub>Icons provided by <a href="https://github.com/devicons/devicon" style="color:gray;">Devicon</a> under the MIT License.</sub>
+</p>
 
 <!--
 
