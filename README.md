@@ -40,25 +40,6 @@ Some quick facts:
 
 ---
 
-<p align="center">
-  <img src="icons/rust-original.svg" width="50" height="50">
-  <img src="icons/cplusplus-original.svg" width="50" height="50">
-  <img src="icons/r-original.svg" width="50" height="50">
-  <img src="icons/linux-original.svg" width="50" height="50">
-  <img src="icons/ubuntu-original.svg" width="50" height="50">
-  <img src="icons/tensorflow-original.svg" width="50" height="50">
-  <img src="icons/opencv-original.svg" width="50" height="50">
-  <img src="icons/keras-original.svg" width="50" height="50">
-  <img src="icons/python-original.svg" width="50" height="50">
-  <img src="icons/julia-original.svg" width="50" height="50">
-  <img src="icons/html5-original.svg" width="50" height="50">
-  <img src="icons/css3-original.svg" width="50" height="50">
-</p>
-
-> Icons provided by [Devicon](https://github.com/devicons/devicon) under the MIT License.
-
----
-
 ## 🚀 Current Focus
 
 - 🦀 Becoming proficient in **Rust**.
@@ -93,7 +74,28 @@ Some quick facts:
 - 📊 **[GSI data science project (UT Austin GSI program)](https://github.com/JaimeFine/GSI_Data_R)**  
 - 🖇️ **[Coding Challenges (C++)](https://github.com/JaimeFine/Coding_Challenges)**
 
-> *(new projects & repos coming soon…)*  
+> *(new projects & repos coming soon…)*
+
+---
+
+<p align="center">
+  <img src="icons/rust-original.svg" width="50" height="50">
+  <img src="icons/cplusplus-original.svg" width="50" height="50">
+  <img src="icons/r-original.svg" width="50" height="50">
+  <img src="icons/linux-original.svg" width="50" height="50">
+  <img src="icons/ubuntu-original.svg" width="50" height="50">
+  <img src="icons/tensorflow-original.svg" width="50" height="50">
+  <img src="icons/opencv-original.svg" width="50" height="50">
+  <img src="icons/keras-original.svg" width="50" height="50">
+  <img src="icons/python-original.svg" width="50" height="50">
+  <img src="icons/julia-original.svg" width="50" height="50">
+  <img src="icons/html5-original.svg" width="50" height="50">
+  <img src="icons/css3-original.svg" width="50" height="50">
+</p>
+
+<p style="font-size:10px; color:gray; text-align:center;">
+  Icons provided by <a href="https://github.com/devicons/devicon" style="color:gray;">Devicon</a> under the MIT License.
+</p>
 
 <!--
 
