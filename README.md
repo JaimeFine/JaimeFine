@@ -73,12 +73,12 @@ Some quick facts:
   <p><img src="https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeFine&theme=tokyonight&hide_border=true" /></p>
 -->
-  <img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar">
+  <img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="250" height="250">
   <!--
   <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.languages.svg" alt="Languages Activity" /></p>
   -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeFine&layout=donut&theme=github_dark&hide_border=true" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeFine&layout=donut&theme=github_dark&hide_border=true" alt="Top Languages" width="250" height="250">
   </a>
 </div>
 
