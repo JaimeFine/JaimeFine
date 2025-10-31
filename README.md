@@ -73,7 +73,7 @@ Some quick facts:
   <p><img src="https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeFine&theme=tokyonight&hide_border=true" /></p>
 -->
-  <div style="display:inline-block; padding-left:100px;"><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar"></div>
+  <img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar">
   <!--
   <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.languages.svg" alt="Languages Activity" /></p>
   -->
@@ -91,7 +91,7 @@ Some quick facts:
 - 📊 **[GSI data science project (UT Austin GSI program)](https://github.com/JaimeFine/GSI_Data_R)**  
 - 🖇️ **[Coding Challenges (C++)](https://github.com/JaimeFine/Coding_Challenges)**
 
-*(new projects & repos coming soon…)*  
+> *(new projects & repos coming soon…)*  
 
 <!--
 
