@@ -73,7 +73,7 @@ Some quick facts:
   <p><img src="https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeFine&theme=tokyonight&hide_border=true" /></p>
 -->
-  <img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="410" height="410">
+  <img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="415" height="415">
   <!--
   <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.languages.svg" alt="Languages Activity" /></p>
   -->
