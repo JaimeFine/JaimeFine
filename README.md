@@ -38,7 +38,7 @@ Some quick facts:
 ### Other Skills
 - **Linux (enough to use)** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
 
-![Test](icons/r-original.svg)
+<img src="icons/r-original.svg" alt="Test" width="300" height="200">
 
 ---
 
