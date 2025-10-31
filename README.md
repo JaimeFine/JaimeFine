@@ -38,7 +38,16 @@ Some quick facts:
 ### Other Skills
 - **Linux (enough to use)** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
 
-<img src="icons/r-original.svg" alt="Test" width="300" height="200">
+<img src="icons/rust-original.svg" alt="Test" width="100" height="100">
+<img src="icons/cplusplus-original.svg" alt="Test" width="100" height="100">
+<img src="icons/r-original.svg" alt="Test" width="100" height="100">
+<img src="icons/linux-original.svg" alt="Test" width="100" height="100">
+<img src="icons/ubuntu-original.svg" alt="Test" width="100" height="100">
+<img src="icons/tensorflow-original.svg" alt="Test" width="100" height="100">
+<img src="icons/opencv-original.svg" alt="Test" width="100" height="100">
+<img src="icons/keras-original.svg" alt="Test" width="100" height="100">
+<img src="icons/python-original.svg" alt="Test" width="100" height="100">
+<img src="icons/julia-original.svg" alt="Test" width="100" height="100">
 
 ---
 
