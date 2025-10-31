@@ -99,7 +99,7 @@ Some quick facts:
 
 
 <p align="center">
-  <sub>© JaimeFine — Last updated 2025/10/31 · MIT License · Archive v1.3</sub>
+  <sub>© JaimeFine — Last updated 2025/10/31 · Archive v1.3</sub>
 </p>
 
 
