@@ -76,7 +76,7 @@ Some quick facts:
 
 > *(new projects & repos coming soon…)*
 
----
+<hr>
 
 <p align="center">
   <img src="icons/rust-original.svg" width="50" height="50">
@@ -96,6 +96,12 @@ Some quick facts:
 <p align="center">
   <sub>Icons provided by <a href="https://github.com/devicons/devicon" style="color:gray;">Devicon</a> under the MIT License.</sub>
 </p>
+
+
+<p align="center">
+  <sub>© JaimeFine — Last updated 2025/10/31 · MIT License · Archive v1.3</sub>
+</p>
+
 
 <!--
 
