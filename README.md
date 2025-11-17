@@ -62,9 +62,10 @@ Some quick facts:
   -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeFine&layout=donut&theme=github_dark&hide_border=true" alt="Top Languages" width="325" height="325">
-    <img src="https://streak-stats.demolab.com/?user=JaimeFine&theme=dark">
   </a>
 </div>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=JaimeFine&theme=dark)
 
 ---
 
