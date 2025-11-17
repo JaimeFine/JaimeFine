@@ -55,9 +55,7 @@ Some quick facts:
 <!--
   <p><img src="https://github-readme-stats.vercel.app/api?username=JaimeFine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeFine&theme=tokyonight&hide_border=true" /></p>
--->
   <img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="415" height="415">
-  <!--
   <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.languages.svg" alt="Languages Activity" /></p>
   -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -65,7 +63,7 @@ Some quick facts:
   </a>
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=JaimeFine&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JaimeFine&theme=dark&hide_border=true)
 
 ---
 
