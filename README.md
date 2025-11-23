@@ -109,7 +109,7 @@ Some quick facts:
 
 
 <p align="center">
-  <sub>© JaimeFine — Last updated 2025/10/31 · Archive v1.3</sub>
+  <sub>© JaimeFine — Last updated 2025/11/23 · Archive v1.31</sub>
 </p>
 
 
