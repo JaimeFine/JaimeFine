@@ -9,7 +9,10 @@
 
 ---
 
-## 🌟 About Me
+<h2 align="center">
+  🌟 About Me
+</h2>
+
 I’m Jaime (that is obviously my pseudonym), currently a sophomore studying **Computer Science**, with a mind that naturally flows between **technology, art, and strategy**.  
 I’ve always believed in building a life where **creativity based on cognition**, and where learning is not just for score and fame but a lifestyle.  
 
@@ -25,7 +28,10 @@ Some quick facts:
 
 ---
 
-## 🔧 Tech & Tools
+<h2 align="center">
+  🔧 Tech & Tools
+</h2>
+
 ### Languages & Frameworks
 - Be with **Rust** since 2025
 - Experience of **C / C++** since 2024
@@ -40,7 +46,9 @@ Some quick facts:
 
 ---
 
-## 🚀 Current Focus
+<h2 align="center">
+  🚀 Current Focus
+</h2>
 
 - 🦀 Becoming proficient in **Rust**.
 - 📖 Preparing for the **DELE Spanish exam for November**.  
@@ -49,7 +57,9 @@ Some quick facts:
 
 ---
 
-## 🔥 GitHub Stats
+<h2 align="center">
+  🔥 GitHub Stats
+</h2>
 
 <div align="center">
 <!--
@@ -65,7 +75,9 @@ Some quick facts:
 
 ---
 
-## 📂 Featured Projects
+<h2 align="center">
+  📂 Featured Projects
+</h2>
 
 - 🤖 **[Embedded System Projects (A series of mini projects)](https://github.com/JaimeFine/Embedded_System_Projects)** 
 - ⚙️ **[Rust Learning Projects (Rust)](https://github.com/JaimeFine/Rust_Learning_Projects)**  
