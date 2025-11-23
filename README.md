@@ -18,7 +18,7 @@ I’ve always believed in building a life where **creativity based on cognition*
 
 Some quick facts:  
 - 💻 Interested in **embodied AI**, **embedded system**, **data analysis**, and **edge AI deployment**.  
-- 🌱 Willing to explore **EV**, **robotics**, and **entrepreneurship**.  
+- 🌱 Willing to explore **drones**, **robotics**, and **entrepreneurship**.  
 - 📚 Background in **Rust**, **R for data analysis and visualization**, **Linux systems**, **Python**, and **C++**.  
 - 🌍 Fluent in **4 languages** (English, Chinese, German, Spanish, and more but not 'fluent'), with experience navigating diverse cultures.  
 - 🎶 Ex-professional amateur **musician & composer**.  
