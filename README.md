@@ -50,10 +50,10 @@ Some quick facts:
   🚀 Current Focus
 </h2>
 
-- 🦀 Becoming proficient in **Rust**.
-- 📖 Preparing for the **DELE Spanish exam for November**.  
+- 🦀 Building a project in **Rust**.
+- 📖 Doing a **Sophomore Project**.  
 - 🌱 Studying CS in my college.  
-- 🎯 Shifting from “just thinking” to **action & creation**.
+- 🎯 Reinforcing **action & creation**.
 
 ---
 
