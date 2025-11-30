@@ -20,7 +20,7 @@ Some quick facts:
 - 💻 Interested in **embodied AI**, **embedded system**, **data analysis**, and **edge AI deployment**.  
 - 🌱 Willing to explore **drones**, **robotics**, and **entrepreneurship**.  
 - 📚 Background in **Rust**, **R for data analysis and visualization**, **Linux systems**, **Python**, and **C++**.  
-- 🌍 Fluent in **4 languages** (English, Chinese, German, Spanish, and more but not 'fluent'), with experience navigating diverse cultures.  
+- 🌍 Good with **4 languages** (English, Chinese, Spanish, German), with experience navigating diverse cultures.
 - 🎶 Ex-professional amateur **musician & composer**.  
 - 🏃 Enthusiast of **football**, **badminton**, and **citywalking**.  
 - 🧩 A fan of complex **origami**, also interested in early modern english literature and poetry. 
@@ -79,6 +79,7 @@ Some quick facts:
   📂 Featured Projects
 </h2>
 
+- 👾 **[JettyLink (A Jetson-PC batch sender)](https://github.com/JaimeFine/JettyLink)**
 - 🤖 **[Embedded System Projects (A series of mini projects)](https://github.com/JaimeFine/Embedded_System_Projects)** 
 - ⚙️ **[Rust Learning Projects (Rust)](https://github.com/JaimeFine/Rust_Learning_Projects)**  
 - 📊 **[GSI data science project (UT Austin GSI program)](https://github.com/JaimeFine/GSI_Data_R)**  
