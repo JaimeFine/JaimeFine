@@ -33,7 +33,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.charts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN2 }}
+          committer_token: ${{ secrets.METRICS_TOKEN2 }}
           base: ""
           plugin_habits: yes
           plugin_habits_facts: no
@@ -42,12 +43,12 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.details.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN2 }}
+          committer_token: ${{ secrets.METRICS_TOKEN2 }}
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
+            makefile
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 5
 
