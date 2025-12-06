@@ -79,11 +79,12 @@ Some quick facts:
   📂 Featured Projects
 </h2>
 
-- 👾 **[JettyLink (A Jetson-PC batch sender)](https://github.com/JaimeFine/JettyLink)**
-- 🤖 **[Embedded System Projects (A series of mini projects)](https://github.com/JaimeFine/Embedded_System_Projects)** 
+- 👾 **[JettyLink (In active progress)](https://github.com/JaimeFine/JettyLink)**
+- ✈️ **[Trajectory Analysis (In active progress)](https://github.com/JaimeFine/TrajectoryAnalysis)**
+- 🤖 **[Embedded System Projects (Interesting stuffs)](https://github.com/JaimeFine/Embedded_System_Projects)** 
 - ⚙️ **[Rust Learning Projects (Rust)](https://github.com/JaimeFine/Rust_Learning_Projects)**  
 - 📊 **[GSI data science project (UT Austin GSI program)](https://github.com/JaimeFine/GSI_Data_R)**  
-- 🖇️ **[Coding Challenges (C++)](https://github.com/JaimeFine/Coding_Challenges)**
+- 🖇️ **[Coding Challenges (C++ course)](https://github.com/JaimeFine/Coding_Challenges)**
 
 > *(new projects & repos coming soon…)*
 
@@ -110,7 +111,7 @@ Some quick facts:
 
 
 <p align="center">
-  <sub>© JaimeFine — Last updated 2025/11/23 · Archive v1.31</sub>
+  <sub>© JaimeFine — Last updated 2025/12/6 · Archive v1.32</sub>
 </p>
 
 
