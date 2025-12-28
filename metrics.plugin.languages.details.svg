@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="143.95370898955642" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="143.95370898955642" y="0" width="107.29767621478223" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="251.25138520433867" y="0" width="97.62777460626616" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="348.87915981060485" y="0" width="57.53282514523657" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="406.41198495584143" y="0" width="53.58801504415864" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="141.16399110891578" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="141.16399110891578" y="0" width="105.21832551247222" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="246.38231662138801" y="0" width="95.73581954392031" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="342.11813616530833" y="0" width="61.46398287643039" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="403.5821190417387" y="0" width="56.4178809582613" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                             </div>
                             <small>
                                 <div>74.5 kB</div>
-                                <div>31.29%</div>
+                                <div>30.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -50,19 +50,19 @@
                             </div>
                             <small>
                                 <div>50.5 kB</div>
-                                <div>21.22%</div>
+                                <div>20.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                Rust
                             </div>
                             <small>
-                                <div>27.7 kB</div>
-                                <div>11.65%</div>
+                                <div>29.8 kB</div>
+                                <div>12.26%</div>
                             </small>
                         </div>
                     </section>
@@ -76,19 +76,19 @@
                             </div>
                             <small>
                                 <div>55.5 kB</div>
-                                <div>23.33%</div>
+                                <div>22.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Rust
+                                Python
                             </div>
                             <small>
-                                <div>29.8 kB</div>
-                                <div>12.51%</div>
+                                <div>32.4 kB</div>
+                                <div>13.36%</div>
                             </small>
                         </div>
                     </section>
