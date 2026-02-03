@@ -79,12 +79,12 @@ Some quick facts:
   📂 Featured Projects
 </h2>
 
-- 👾 **[JettyLink (In active progress)](https://github.com/JaimeFine/JettyLink)**
-- ✈️ **[Trajectory Analysis (In active progress)](https://github.com/JaimeFine/TrajectoryAnalysis)**
-- 🤖 **[Embedded System Projects (Interesting stuffs)](https://github.com/JaimeFine/Embedded_System_Projects)** 
-- ⚙️ **[Rust Learning Projects (Rust)](https://github.com/JaimeFine/Rust_Learning_Projects)**  
-- 📊 **[GSI data science project (UT Austin GSI program)](https://github.com/JaimeFine/GSI_Data_R)**  
-- 🖇️ **[Coding Challenges (C++ course)](https://github.com/JaimeFine/Coding_Challenges)**
+- ✈️ **[Adaptive density field (A research project)](https://github.com/JaimeFine/adaptive-density-field)**
+- 👾 **[JettyLink (Jetson-PC connector)](https://github.com/JaimeFine/JettyLink)**
+- ⚙️ **[Rust learning projects (Rust)](https://github.com/JaimeFine/rust-learning-projects)**  
+- 📊 **[GSI data science course projects (UT Austin GSI program)](https://github.com/JaimeFine/ut-austin-data-r)**  
+- 🖇️ **[Data structure and algorithm course projects (C++ course)](https://github.com/JaimeFine/dsa-cpp)**
+- 🤖 **[Embedded system projects (Interesting stuffs)](https://github.com/JaimeFine/Embedded_System_Projects)** 
 
 > *(new projects & repos coming soon…)*
 
