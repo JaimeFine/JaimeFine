@@ -13,11 +13,11 @@
   🌟 About Me
 </h2>
 
-I’m Jaime (that is obviously my pseudonym), currently a sophomore studying **Computer Science**, with a mind that naturally flows between **technology, art, and strategy**.  
+I’m Jaime, currently a sophomore studying **Computer Science**, with a mind that naturally flows between **technology, art, and strategy**.  
 I’ve always believed in building a life where **creativity based on cognition**, and where learning is not just for score and fame but a lifestyle.  
 
 Some quick facts:  
-- 💻 Interested in **embodied AI**, **embedded system**, **data analysis**, and **edge AI deployment**.  
+- 💻 Interested in **embodied AI**, **artificial intelligence theory**, **data analysis**, and **edge AI deployment**.  
 - 🌱 Willing to explore **drones**, **robotics**, and **entrepreneurship**.  
 - 📚 Background in **Rust**, **R for data analysis and visualization**, **Linux systems**, **Python**, and **C++**.  
 - 🌍 Good with **4 languages** (English, Chinese, Spanish, German), with experience navigating diverse cultures.
@@ -41,6 +41,10 @@ Some quick facts:
 ### Hardware & Embedded Experience
 - **Raspberry Pi** | **Jetson Orin Nano Super** | **Z80 Computer (DIY built but failed)** | **Hardware control with C++**  
 
+### Research Experience
+- ORCID id: https://orcid.org/0009-0007-3932-2225
+- arXiv 0: https://arxiv.org/abs/2601.06135 (newer extended version currently under journal review)
+
 ### Other Skills
 - **Linux (enough to use)** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
 
@@ -50,10 +54,10 @@ Some quick facts:
   🚀 Current Focus
 </h2>
 
-- 🦀 Building a project in **Rust**.
-- 📖 Doing a **Sophomore Project**.  
-- 🌱 Studying CS in my college.  
-- 🎯 Reinforcing **action & creation**.
+- 🦀 Getting to know about **Evolutionary Computation**.
+- 📖 Mastering **Statistical Machine Learning**.  
+- 🌱 Playing with **Pattern Recognition**.
+- 🎯 Focusing on **Convex Optimization**.
 
 ---
 
