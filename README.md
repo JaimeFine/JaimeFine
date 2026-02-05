@@ -42,8 +42,8 @@ Some quick facts:
 - **Raspberry Pi** | **Jetson Orin Nano Super** | **Z80 Computer (DIY built but failed)** | **Hardware control with C++**  
 
 ### Research Experience
-- ORCID id: https://orcid.org/0009-0007-3932-2225
-- arXiv 0: https://arxiv.org/abs/2601.06135 (newer extended version currently under journal review)
+- ORCID: https://orcid.org/0009-0007-3932-2225
+- arXiv: [Adaptive Density Field](https://arxiv.org/abs/2601.06135 (newer extended version currently under journal review))
 
 ### Other Skills
 - **Linux (enough to use)** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
