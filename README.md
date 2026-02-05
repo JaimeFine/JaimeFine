@@ -43,7 +43,7 @@ Some quick facts:
 
 ### Research Experience
 - ORCID: https://orcid.org/0009-0007-3932-2225
-- arXiv: [Adaptive Density Field](https://arxiv.org/abs/2601.06135 (newer extended version currently under journal review))
+- arXiv: [Adaptive Density Field (newer extended version currently under journal review)](https://arxiv.org/abs/2601.06135)
 
 ### Other Skills
 - **Linux (enough to use)** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
