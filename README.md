@@ -36,17 +36,19 @@ Some quick facts:
 - Be with **Rust** since 2025
 - Experience of **C / C++** since 2024
 - Experience of **Python** just like every dev
-- Also good with **R** | **Linux commands (enough to use)** | **HTML & CSS (basic)**  
+- Also good with **R** | **Linux shell** | **HTML & CSS**  
 
 ### Hardware & Embedded Experience
-- **Raspberry Pi** | **Jetson Orin Nano Super** | **Z80 Computer (DIY built but failed)** | **Hardware control with C++**  
+- **Raspberry Pi** | **Jetson Orin Nano Super** | **8086/8088 Intel System** | **Hardware control with C++**  
 
+<!--
 ### Research Experience
 - ORCID: https://orcid.org/0009-0007-3932-2225
 - arXiv: [Adaptive Density Field (newer extended version currently under journal review)](https://arxiv.org/abs/2601.06135)
+-->
 
 ### Other Skills
-- **Linux (enough to use)** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
+- **Linux** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
 
 ---
 
