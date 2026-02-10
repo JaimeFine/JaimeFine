@@ -97,18 +97,24 @@ Some quick facts:
 <hr>
 
 <p align="center">
-  <img src="icons/rust-original.svg" width="50" height="50">
   <img src="icons/cplusplus-original.svg" width="50" height="50">
   <img src="icons/r-original.svg" width="50" height="50">
-  <img src="icons/linux-original.svg" width="50" height="50">
-  <img src="icons/ubuntu-original.svg" width="50" height="50">
-  <img src="icons/tensorflow-original.svg" width="50" height="50">
-  <img src="icons/opencv-original.svg" width="50" height="50">
-  <img src="icons/keras-original.svg" width="50" height="50">
   <img src="icons/python-original.svg" width="50" height="50">
   <img src="icons/julia-original.svg" width="50" height="50">
+  <img src="icons/rust-original.svg" width="50" height="50">
+  <img src="icons/linux-original.svg" width="50" height="50">
+  <img src="icons/latex-original.svg" width="50" height="50">
+  <img src="icons/jupyter-original.svg" width="50" height="50">
+  <img src="icons/pandas-original.svg" width="50" height="50">
+  <img src="icons/pytorch-original.svg" width="50" height="50">
+  <img src="icons/tensorflow-original.svg" width="50" height="50">
+  <img src="icons/keras-original.svg" width="50" height="50">
+  <!--
+  <img src="icons/opencv-original.svg" width="50" height="50">
+  <img src="icons/ubuntu-original.svg" width="50" height="50">
   <img src="icons/html5-original.svg" width="50" height="50">
   <img src="icons/css3-original.svg" width="50" height="50">
+  -->
 </p>
 
 <p align="center">
