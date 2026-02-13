@@ -19,7 +19,7 @@ I’ve always believed in building a life where **creativity based on cognition*
 Some quick facts:  
 - 💻 Interested in **embodied AI**, **artificial intelligence theory**, **data analysis**, and **edge AI deployment**.  
 - 🌱 Willing to explore **drones**, **robotics**, and **entrepreneurship**.  
-- 📚 Background in **Rust**, **R for data analysis and visualization**, **Linux systems**, **Python**, and **C++**.  
+- 📚 Background in **Computer Science**.  
 - 🌍 Good with **4 languages** (English, Chinese, Spanish, German), with experience navigating diverse cultures.
 - 🎶 Ex-professional amateur **musician & composer**.  
 - 🏃 Enthusiast of **football**, **badminton**, and **citywalking**.  
@@ -33,13 +33,15 @@ Some quick facts:
 </h2>
 
 ### Languages & Frameworks
-- Be with **Rust** since 2025
-- Experience of **C / C++** since 2024
-- Experience of **Python** just like every dev
-- Also good with **R** | **Linux shell** | **HTML & CSS**  
+- Comfortable with **Linux** (since 2024 Sep)
+- Be with **C / C++** (since 2024 Mar)
+- Good with **R** (since 2025 Jun)
+- Started with **CUDA** (since 2026 Feb)
+- Knowing **Python** just like every dev
+- Experience of **Rust**, **Julia**, and **HTML & CSS** 
 
 ### Hardware & Embedded Experience
-- **Raspberry Pi** | **Jetson Orin Nano Super** | **8086/8088 Intel System** | **Hardware control with C++**  
+- **Raspberry Pi** | **Jetson Orin Nano Series** | **8086/8088 Intel System** | **Hardware control with C++**  
 
 <!--
 ### Research Experience
@@ -47,15 +49,13 @@ Some quick facts:
 - arXiv: [Adaptive Density Field (newer extended version currently under journal review)](https://arxiv.org/abs/2601.06135)
 -->
 
-### Other Skills
-- **Linux** | **OpenCV** | **Git/GitHub** | **Data analysis and visualization**  
-
 ---
 
 <h2 align="center">
   🚀 Current Focus
 </h2>
 
+- 🦠 Started diving into **CUDA Ecoysystems**
 - 🦀 Getting to know about **Evolutionary Computation**.
 - 📖 Mastering **Statistical Machine Learning**.  
 - 🌱 Playing with **Pattern Recognition**.
