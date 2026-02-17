@@ -121,18 +121,9 @@ Some quick facts:
   <sub>Icons provided by <a href="https://github.com/devicons/devicon" style="color:gray;">Devicon</a> under the MIT License.</sub>
 </p>
 
-
 <p align="center">
-  <sub id="last-updated">© JaimeFine — Last updated 0000-00-00 00:00</sub>
-
-  <script>
-    const lastUpdated = new Date(document.lastModified);
-    const formatted = lastUpdated.toISOString().slice(0,16).replace("T"," ");
-    document.getElementById("last-updated").innerHTML =
-      `© JaimeFine — Last updated ${formatted} · Archive v1.3`;
-  </script>
+  <sub>© JaimeFine — Last manually updated: 2026/2/17</sub>
 </p>
-
 
 <!--
 
