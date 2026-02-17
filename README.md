@@ -123,7 +123,7 @@ Some quick facts:
 
 
 <p align="center">
-  <sub>© JaimeFine — Last updated 2025/12/6 · Archive v1.32</sub>
+  <sub>© JaimeFine — Last updated <!--TIME-->0000-00-00 00:00<!--END--> · Archive v1.3</sub>
 </p>
 
 
