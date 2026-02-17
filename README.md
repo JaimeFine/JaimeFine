@@ -123,7 +123,14 @@ Some quick facts:
 
 
 <p align="center">
-  <sub>© JaimeFine — Last updated <!--TIME-->0000-00-00 00:00<!--END--> · Archive v1.3</sub>
+  <sub id="last-updated">© JaimeFine — Last updated 0000-00-00 00:00</sub>
+
+  <script>
+    const lastUpdated = new Date(document.lastModified);
+    const formatted = lastUpdated.toISOString().slice(0,16).replace("T"," ");
+    document.getElementById("last-updated").innerHTML =
+      `© JaimeFine — Last updated ${formatted} · Archive v1.3`;
+  </script>
 </p>
 
 
