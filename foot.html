@@ -1,0 +1,10 @@
+<p align="center">
+  <sub id="last-updated">© JaimeFine — Last updated 0000-00-00 00:00 · Archive v1.3</sub>
+</p>
+
+<script>
+  const lastUpdated = new Date(document.lastModified);
+  const formatted = lastUpdated.toISOString().slice(0,16).replace("T"," ");
+  document.getElementById("last-updated").innerHTML =
+    `© JaimeFine — Last updated ${formatted} · Archive v1.3`;
+</script>
