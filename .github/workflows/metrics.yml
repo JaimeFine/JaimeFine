@@ -24,7 +24,7 @@ jobs:
           filename: metrics.plugin.languages.svg
           base: ""
           repositories_forks: no
-          repositories_ignored: collab
+          repositories_skipped: collab
           plugin_languages: yes
           plugin_languages_indepth: no
           plugin_languages_sections: most-used
