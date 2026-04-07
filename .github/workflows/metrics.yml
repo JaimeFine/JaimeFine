@@ -23,7 +23,8 @@ jobs:
           committer_token: ${{ secrets.METRICS_TOKEN3 }}
           filename: metrics.plugin.languages.svg
           base: ""
-          repositories_forks: no          
+          repositories_forks: no
+          repositories_ignored: collab
           plugin_languages: yes
           plugin_languages_indepth: no
           plugin_languages_sections: most-used
