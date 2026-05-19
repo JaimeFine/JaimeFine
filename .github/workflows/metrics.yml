@@ -10,8 +10,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN3 }}
-          committer_token: ${{ secrets.METRICS_TOKEN3 }}
+          token: ${{ secrets.METRICS_TOKEN4 }}
+          committer_token: ${{ secrets.METRICS_TOKEN4 }}
           filename: metrics.plugin.isocalendar.svg
           base: ""
           plugin_isocalendar: yes
@@ -19,8 +19,8 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN3 }}
-          committer_token: ${{ secrets.METRICS_TOKEN3 }}
+          token: ${{ secrets.METRICS_TOKEN4 }}
+          committer_token: ${{ secrets.METRICS_TOKEN4 }}
           filename: metrics.plugin.languages.svg
           base: ""
           repositories_forks: no
