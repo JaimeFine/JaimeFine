@@ -124,7 +124,7 @@ Some quick facts:
 </p>
 
 <p align="center">
-  <sub>© JaimeFine — Last manually updated: 2026/2/17</sub>
+  <sub>© JaimeFine — Last manually updated: 2026/5/26</sub>
 </p>
 
 <!--
