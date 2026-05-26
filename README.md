@@ -79,7 +79,7 @@ Some quick facts:
   <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" /></p>  
 </div>
 
----
+<!---
 
 <h2 align="center">
   📂 Featured Projects
@@ -93,6 +93,8 @@ Some quick facts:
 - 🤖 **[Embedded system projects (Interesting stuffs)](https://github.com/JaimeFine/Embedded_System_Projects)** 
 
 > *(new projects & repos coming soon…)*
+
+-->
 
 <hr>
 
