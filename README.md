@@ -15,15 +15,19 @@
 
 I'm a Computer Science sophomore student interested in the intersection of
 
-- High Performance Computing (CUDA, Parallel Systems)
-- Statistical Machine Learning
-- Interpretable Machine Learning
-- Physics-Inspired Embodied AI and Robotics
-- Autonomous System
+- ⚡ High-Performance Computing
+- 🧠 Statistical & Interpretable Machine Learning  
+- 🤖 Embodied AI & Autonomous Systems  
+- 🦾 Robotics and Edge Deployment
 
 Recently, I've been working on scalable learning systems, simulation-driven research, and GPU-accelerated computing. My projects range from multi-agent reinforcement learning frameworks and evolutionary algorithms to hardware-aware AI deployment.
 
-Outside computing, I have a background in music composition, languages, and interdisciplinary problem solving.
+<h3>🌍 Beyond Computing</h3>
+
+- 🎹 Former musician and composer
+- 🗣️ English · Chinese · Spanish · German
+- 📚 Interested in literature, cognition, learning systems, and interdisciplinary thinking
+- 🚶 Enthusiast of city walking, football, badminton, and complex origami
 
 ---
 
@@ -31,15 +35,15 @@ Outside computing, I have a background in music composition, languages, and inte
   Featured Projects (Serious Project)
 </h2>
 
-### [Adaptive Density Field (ADF)](https://github.com/JaimeFine/adaptive-density-field)
+### Adaptive Density Field [(ADF)](https://github.com/JaimeFine/adaptive-density-field)
 A geometric attention framework that formulates spatial aggregation as a query-conditioned, metric-induced attention operator in continuous space.
-- [arXiv publication](https://arxiv.org/abs/2601.06135)
-- Under review (Journal)
+- [📄](https://arxiv.org/abs/2601.06135) arXiv publication
+- 📝 Journal Version Under Review
 
-### [Event-Retrieve-Action (ERA) Framework](https://github.com/JaimeFine/event-retrieve-action)
-An event-centric world modeling framework with memory-augmented retrieval for embodied decision-making.
-- [arXiv publication](https://arxiv.org/abs/2604.07392)
-- Under review (Journal)
+### Event-Retrieve-Action Framework [(ERA)](https://github.com/JaimeFine/event-retrieve-action)
+An event-centric world-modeling framework that augments embodied decision-making through structured memory retrieval.
+- [📄](https://arxiv.org/abs/2604.07392) arXiv publication
+- 📝 Journal Version Under Review
 
 <!--
 ### SPIN
@@ -62,24 +66,13 @@ Collection of GPU computing projects exploring:
 </h2>
 
 ### Languages
-- C/C++
-- Python
-- CUDA
-- R
-- Rust
-- Julia
+C/C++ | Python | CUDA | R | Rust | Julia
 
 ### Systems & Platforms
-- Linux
-- NVIDIA CUDA
-- Jetson Orin Nano
-- Raspberry Pi
+Linux | NVIDIA CUDA | Jetson Orin Nano | Raspberry Pi
 
 ### Research & Simulation
-- Isaac Sim
-- PettingZoo
-- Statistical Machine Learning
-- Evolutionary Computation
+Isaac Sim | PettingZoo | Statistical Machine Learning | Evolutionary Computation
 
 <!--
 ### Research Experience
@@ -93,13 +86,13 @@ Collection of GPU computing projects exploring:
   Current Focus
 </h2>
 
-- GPU Computing & CUDA
-- High Performance Computing
-- Statistical Machine Learning
-- Multi-Agent Reinforcement Learning
-- Evolutionary Computation
-- Robotics & Embodied AI
-- Optimization Methods
+- ⚡ CUDA & GPU Computing
+- 🚀 High-Performance Systems
+- 🧠 Statistical Machine Learning
+- 🤖 Multi-Agent Reinforcement Learning
+- 🧬 Evolutionary Computation
+- 🦾 Embodied AI & Robotics
+- 📈 Optimization Theory
 
 ---
 
