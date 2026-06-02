@@ -32,15 +32,15 @@ Recently, I've been working on scalable learning systems, simulation-driven rese
 ---
 
 <h2 align="center">
-  Featured Projects (Serious Project)
+  🚀 Featured Projects (Serious Project)
 </h2>
 
-### Adaptive Density Field [(ADF)](https://github.com/JaimeFine/adaptive-density-field)
+### 🌀 Adaptive Density Field [(ADF)](https://github.com/JaimeFine/adaptive-density-field)
 A geometric attention framework that formulates spatial aggregation as a query-conditioned, metric-induced attention operator in continuous space.
 - [📄](https://arxiv.org/abs/2601.06135) arXiv publication
 - 📝 Journal Version Under Review
 
-### Event-Retrieve-Action Framework [(ERA)](https://github.com/JaimeFine/event-retrieve-action)
+### 🧠 Event-Retrieve-Action Framework [(ERA)](https://github.com/JaimeFine/event-retrieve-action)
 An event-centric world-modeling framework that augments embodied decision-making through structured memory retrieval.
 - [📄](https://arxiv.org/abs/2604.07392) arXiv publication
 - 📝 Journal Version Under Review
@@ -62,7 +62,7 @@ Collection of GPU computing projects exploring:
 ---
 
 <h2 align="center">
-  Tech & Tools
+  ⚙️ Tech Stack
 </h2>
 
 ### Languages
@@ -83,7 +83,7 @@ Isaac Sim | PettingZoo | Statistical Machine Learning | Evolutionary Computation
 ---
 
 <h2 align="center">
-  Current Focus
+  🎯 Current Focus
 </h2>
 
 - ⚡ CUDA & GPU Computing
