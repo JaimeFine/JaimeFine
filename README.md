@@ -4,7 +4,7 @@
  
 <div align="center">
   <p>🎓 Computer Science Student | 🌍 International Collaborator | 🌀 Interdisciplinary Explorer</p>
-  <p>🎨 Artistic Creator | ⚡ Future Entrepreneur (My future goal)</p>
+  <p>🎨 Artistic Creator | ⚡ Researcher & Systems Builder</p>
 </div>
 
 ---
@@ -13,35 +13,73 @@
   🌟 About Me
 </h2>
 
-I’m Jaime, currently a sophomore studying **Computer Science**, with a mind that naturally flows between **technology, art, and strategy**.  
-I’ve always believed in building a life where **creativity based on cognition**, and where learning is not just for score and fame but a lifestyle.  
+I'm a Computer Science sophomore student interested in the intersection of
 
-Some quick facts:  
-- 💻 Interested in **embodied AI**, **artificial intelligence theory**, **data analysis**, and **edge AI deployment**.  
-- 🌱 Willing to explore **drones**, **robotics**, and **entrepreneurship**.  
-- 📚 Background in **Computer Science**.  
-- 🌍 Good with **4 languages** (English, Chinese, Spanish, German), with experience navigating diverse cultures.
-- 🎶 Ex-professional amateur **musician & composer**.  
-- 🏃 Enthusiast of **football**, **badminton**, and **citywalking**.  
-- 🧩 A fan of complex **origami**, also interested in early modern english literature and poetry. 
-- ✨ Long-term vision: **finish undergraduate and postgraduate studies**, **building a company**, and leaving a mark in this world.  
+- High Performance Computing (CUDA, Parallel Systems)
+- Statistical Machine Learning
+- Interpretable Machine Learning
+- Physics-Inspired Embodied AI and Robotics
+- Autonomous System
+
+Recently, I've been working on scalable learning systems, simulation-driven research, and GPU-accelerated computing. My projects range from multi-agent reinforcement learning frameworks and evolutionary algorithms to hardware-aware AI deployment.
+
+Outside computing, I have a background in music composition, languages, and interdisciplinary problem solving.
 
 ---
 
 <h2 align="center">
-  🔧 Tech & Tools
+  Featured Projects (Serious Project)
 </h2>
 
-### Languages & Frameworks
-- Comfortable with **Linux** (since 2024 Sep)
-- Be with **C / C++** (since 2024 Mar)
-- Good with **R** (since 2025 Jun)
-- Started with **CUDA** (since 2026 Feb)
-- Knowing **Python** just like every dev
-- Experience of **Rust**, **Julia**, and **HTML & CSS** 
+### [Adaptive Density Field (ADF)](https://github.com/JaimeFine/adaptive-density-field)
+A geometric attention framework that formulates spatial aggregation as a query-conditioned, metric-induced attention operator in continuous space.
+- [arXiv publication](https://arxiv.org/abs/2601.06135)
+- Under review (Journal)
 
-### Hardware & Embedded Experience
-- **Raspberry Pi** | **Jetson Orin Nano Series** | **8086/8088 Intel System** | **Hardware control with C++**  
+### [Event-Retrieve-Action (ERA) Framework](https://github.com/JaimeFine/event-retrieve-action)
+An event-centric world modeling framework with memory-augmented retrieval for embodied decision-making.
+- [arXiv publication](https://arxiv.org/abs/2604.07392)
+- Under review (Journal)
+
+<!--
+### SPIN
+Scalable multi-agent reinforcement learning framework.
+- PettingZoo ecosystem
+- Noise robustness benchmarks
+- Multi-agent scalability studies
+
+### CUDA Experiments
+Collection of GPU computing projects exploring:
+- Parallel algorithms
+- Memory optimization
+- Performance profiling
+-->
+
+---
+
+<h2 align="center">
+  Tech & Tools
+</h2>
+
+### Languages
+- C/C++
+- Python
+- CUDA
+- R
+- Rust
+- Julia
+
+### Systems & Platforms
+- Linux
+- NVIDIA CUDA
+- Jetson Orin Nano
+- Raspberry Pi
+
+### Research & Simulation
+- Isaac Sim
+- PettingZoo
+- Statistical Machine Learning
+- Evolutionary Computation
 
 <!--
 ### Research Experience
@@ -52,14 +90,16 @@ Some quick facts:
 ---
 
 <h2 align="center">
-  🚀 Current Focus
+  Current Focus
 </h2>
 
-- 🦠 Started diving into **CUDA Ecoysystems**
-- 🦀 Getting to know about **Evolutionary Computation**.
-- 📖 Mastering **Statistical Machine Learning**.  
-- 🌱 Playing with **Pattern Recognition**.
-- 🎯 Focusing on **Convex Optimization**.
+- GPU Computing & CUDA
+- High Performance Computing
+- Statistical Machine Learning
+- Multi-Agent Reinforcement Learning
+- Evolutionary Computation
+- Robotics & Embodied AI
+- Optimization Methods
 
 ---
 
@@ -124,7 +164,7 @@ Some quick facts:
 </p>
 
 <p align="center">
-  <sub>© JaimeFine — Last manually updated: 2026/5/26</sub>
+  <sub>© JaimeFine — Last manually updated: 2026/6/2</sub>
 </p>
 
 <!--
