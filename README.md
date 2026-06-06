@@ -25,28 +25,30 @@ Recently, I've been working on scalable learning systems, simulation-driven rese
 <h3>🌍 Beyond Computing</h3>
 
 - 🎹 Former musician and composer
-- 🗣️ English · Chinese · Spanish · German
+- 🗣️ English (Fluent) · Chinese (Native) · Spanish (DELE B2) · German
 - 📚 Interested in literature, cognition, learning systems, and interdisciplinary thinking
 - 🚶 Enthusiast of city walking, football, badminton, and complex origami
 
 ---
 
 <h2 align="center">
-  🚀 Featured Projects (Serious Project)
+  🚀 Projects
 </h2>
 
-### 🌀 Adaptive Density Field [(ADF)](https://github.com/JaimeFine/adaptive-density-field)
+### Research Projects
+
+#### 🌀 Adaptive Density Field [(ADF)](https://github.com/JaimeFine/adaptive-density-field)
 A geometric attention framework that formulates spatial aggregation as a query-conditioned, metric-induced attention operator in continuous space.
 - [📄](https://arxiv.org/abs/2601.06135) arXiv publication
 - 📝 Journal Version Under Review
 
-### 🧠 Event-Retrieve-Action Framework [(ERA)](https://github.com/JaimeFine/event-retrieve-action)
+#### 🧠 Event-Retrieve-Action Framework [(ERA)](https://github.com/JaimeFine/event-retrieve-action)
 An event-centric world-modeling framework that augments embodied decision-making through structured memory retrieval.
 - [📄](https://arxiv.org/abs/2604.07392) arXiv publication
 - 📝 Journal Version Under Review
 
 <!--
-### SPIN
+### 💫 SPIN
 Scalable multi-agent reinforcement learning framework.
 - PettingZoo ecosystem
 - Noise robustness benchmarks
@@ -59,6 +61,11 @@ Collection of GPU computing projects exploring:
 - Performance profiling
 -->
 
+### Experience
+
+- Contributed to a National Natural Science Foundation of China (NSFC) research project (Grant No. 62273244).
+- Completed the UT Austin Global Summer Institute program (Summer 2025).
+
 ---
 
 <h2 align="center">
@@ -69,10 +76,13 @@ Collection of GPU computing projects exploring:
 C/C++ | Python | CUDA | R | Rust | Julia
 
 ### Systems & Platforms
-Linux | NVIDIA CUDA | Jetson Orin Nano | Raspberry Pi
+Linux | NVIDIA CUDA | Jetson Orin Nano | Raspberry Pi 4
 
-### Research & Simulation
-Isaac Sim | PettingZoo | Statistical Machine Learning | Evolutionary Computation
+### Frameworks & Simulation
+Isaac Sim | PettingZoo | PyTorch | TensorFlow | Git
+
+### Hardware & Robotics
+Jetson Orin Nano | Raspberry Pi 4 | Kintex 7 (ISE 14.7) | ESP32 XIAO
 
 <!--
 ### Research Experience
@@ -87,12 +97,32 @@ Isaac Sim | PettingZoo | Statistical Machine Learning | Evolutionary Computation
 </h2>
 
 - ⚡ CUDA & GPU Computing
-- 🚀 High-Performance Systems
 - 🧠 Statistical Machine Learning
 - 🤖 Multi-Agent Reinforcement Learning
 - 🧬 Evolutionary Computation
 - 🦾 Embodied AI & Robotics
 - 📈 Optimization Theory
+
+---
+
+<h2 align="center">
+  🐾 Footprint
+</h2>
+
+<div align="center">
+
+<b>2006</b><br>
+Born
+<br><br>
+
+<b>2024</b><br>
+Get my first PC
+<br><br>
+
+<b>2025</b><br>
+Started computer science learning
+
+</div>
 
 ---
 
@@ -111,23 +141,6 @@ Isaac Sim | PettingZoo | Statistical Machine Learning | Evolutionary Computation
   <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.languages.svg" alt="Languages Activity" /></p>
   <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" /></p>  
 </div>
-
-<!---
-
-<h2 align="center">
-  📂 Featured Projects
-</h2>
-
-- ✈️ **[Adaptive density field (A research project)](https://github.com/JaimeFine/adaptive-density-field)**
-- 👾 **[JettyLink (Jetson-PC connector)](https://github.com/JaimeFine/JettyLink)**
-- ⚙️ **[Rust learning projects (Rust)](https://github.com/JaimeFine/rust-learning-projects)**  
-- 📊 **[GSI data science course projects (UT Austin GSI program)](https://github.com/JaimeFine/ut-austin-data-r)**  
-- 🖇️ **[Data structure and algorithm course projects (C++ course)](https://github.com/JaimeFine/dsa-cpp)**
-- 🤖 **[Embedded system projects (Interesting stuffs)](https://github.com/JaimeFine/Embedded_System_Projects)** 
-
-> *(new projects & repos coming soon…)*
-
--->
 
 <hr>
 
@@ -157,7 +170,7 @@ Isaac Sim | PettingZoo | Statistical Machine Learning | Evolutionary Computation
 </p>
 
 <p align="center">
-  <sub>© JaimeFine — Last manually updated: 2026/6/2</sub>
+  <sub>© JaimeFine — Last manually updated: 2026/6/6</sub>
 </p>
 
 <!--
