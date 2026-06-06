@@ -25,7 +25,7 @@ Recently, I've been working on scalable learning systems, simulation-driven rese
 <h3>🌍 Beyond Computing</h3>
 
 - 🎹 Former musician and composer
-- 🗣️ English (Fluent) · Chinese (Native) · Spanish (DELE B2) · German
+- 🗣️ English (Fluent) · Chinese (Native) · Spanish (DELE B2) · German (Roughly around A2)
 - 📚 Interested in literature, cognition, learning systems, and interdisciplinary thinking
 - 🚶 Enthusiast of city walking, football, badminton, and complex origami
 
@@ -37,15 +37,20 @@ Recently, I've been working on scalable learning systems, simulation-driven rese
 
 ### Research Projects
 
-#### 🌀 Adaptive Density Field [(ADF)](https://github.com/JaimeFine/adaptive-density-field)
-A geometric attention framework that formulates spatial aggregation as a query-conditioned, metric-induced attention operator in continuous space.
-- [📄](https://arxiv.org/abs/2601.06135) arXiv publication
-- 📝 Journal Version Under Review
-
-#### 🧠 Event-Retrieve-Action Framework [(ERA)](https://github.com/JaimeFine/event-retrieve-action)
-An event-centric world-modeling framework that augments embodied decision-making through structured memory retrieval.
-- [📄](https://arxiv.org/abs/2604.07392) arXiv publication
-- 📝 Journal Version Under Review
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    #### 🌀 Adaptive Density Field [(ADF)](https://github.com/JaimeFine/adaptive-density-field)
+    A geometric attention framework that formulates spatial aggregation as a query-conditioned, metric-induced attention operator in continuous space.
+    - [📄](https://arxiv.org/abs/2601.06135) arXiv publication
+    - 📝 Journal Version Under Review
+  </div>
+  <div style="flex: 1;">
+    #### 🧠 Event-Retrieve-Action Framework [(ERA)](https://github.com/JaimeFine/event-retrieve-action)
+    An event-centric world-modeling framework that augments embodied decision-making through structured memory retrieval.
+    - [📄](https://arxiv.org/abs/2604.07392) arXiv publication
+    - 📝 Journal Version Under Review
+  </div>
+</div>
 
 <!--
 ### 💫 SPIN
