@@ -37,20 +37,22 @@ Recently, I've been working on scalable learning systems, simulation-driven rese
 
 ### Research Projects
 
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
-    #### 🌀 Adaptive Density Field [(ADF)](https://github.com/JaimeFine/adaptive-density-field)
-    A geometric attention framework that formulates spatial aggregation as a query-conditioned, metric-induced attention operator in continuous space.
-    - [📄](https://arxiv.org/abs/2601.06135) arXiv publication
-    - 📝 Journal Version Under Review
-  </div>
-  <div style="flex: 1;">
-    #### 🧠 Event-Retrieve-Action Framework [(ERA)](https://github.com/JaimeFine/event-retrieve-action)
-    An event-centric world-modeling framework that augments embodied decision-making through structured memory retrieval.
-    - [📄](https://arxiv.org/abs/2604.07392) arXiv publication
-    - 📝 Journal Version Under Review
-  </div>
-</div>
+<table>
+<tr>
+<td>
+#### 🌀 Adaptive Density Field [(ADF)](https://github.com/JaimeFine/adaptive-density-field)
+A geometric attention framework that formulates spatial aggregation as a query-conditioned, metric-induced attention operator in continuous space.
+- [📄](https://arxiv.org/abs/2601.06135) arXiv publication
+- 📝 Journal Version Under Review
+</td>
+<td>
+#### 🧠 Event-Retrieve-Action Framework [(ERA)](https://github.com/JaimeFine/event-retrieve-action)
+An event-centric world-modeling framework that augments embodied decision-making through structured memory retrieval.
+- [📄](https://arxiv.org/abs/2604.07392) arXiv publication
+- 📝 Journal Version Under Review
+</td>
+</tr>
+</table>
 
 <!--
 ### 💫 SPIN
