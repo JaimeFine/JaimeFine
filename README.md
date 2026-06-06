@@ -103,7 +103,7 @@ Jetson Orin Nano | Raspberry Pi 4 | Kintex 7 (ISE 14.7) | ESP32 XIAO
 - 🦾 Embodied AI & Robotics
 - 📈 Optimization Theory
 
----
+<!---
 
 <h2 align="center">
   🐾 Footprint
@@ -123,6 +123,7 @@ Get my first PC
 Started computer science learning
 
 </div>
+-->
 
 ---
 
