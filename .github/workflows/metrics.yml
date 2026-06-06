@@ -27,10 +27,8 @@ jobs:
           repositories_skipped: |
             collab
             event-retrieve-action-deprecated
-          branches_skipped: |
-            legacy-version
-            v1-2026-01-27
-            v0-2025-11-30
+          plugin_languages_indepth_custom: |
+            */*@main
           plugin_languages: yes
           plugin_languages_skipped: |
             collab
