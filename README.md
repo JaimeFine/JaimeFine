@@ -84,13 +84,10 @@ Collection of GPU computing projects exploring:
 </h2>
 
 ### Languages
-C/C++ | Python | CUDA | R | Rust | Julia
-
-### Systems & Platforms
-Linux | NVIDIA CUDA | Jetson Orin Nano | Raspberry Pi 4
+C/C++ | Python | CUDA | R | Rust | Julia | Bash
 
 ### Frameworks & Simulation
-Isaac Sim | PettingZoo | PyTorch | TensorFlow | Git
+Isaac Sim | Linux | Jetpack | PettingZoo | PyTorch | TensorFlow | Git | VMware
 
 ### Hardware & Robotics
 Jetson Orin Nano | Raspberry Pi 4 | Kintex 7 (ISE 14.7) | ESP32 XIAO
