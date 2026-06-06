@@ -30,7 +30,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_skipped: |
             collab
-            event-retrieve-action-deprecated
             thesis
             simple-gesture-recognition-model
           plugin_languages_indepth: no
