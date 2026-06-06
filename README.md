@@ -40,22 +40,16 @@ Recently, I've been working on scalable learning systems, simulation-driven rese
 <table>
 <tr>
 <td>
-<h4>🌀 Adaptive Density Field <a href="https://github.com/JaimeFine/adaptive-density-field">(ADF)</a></h4>
-<p>
-A geometric attention framework that formulates spatial aggregation as a query-conditioned,
-metric-induced attention operator in continuous space.
-</p>
+<h4 align="center">🌀 Adaptive Density Field <a href="https://github.com/JaimeFine/adaptive-density-field">(ADF)</a></h4>
+<p>A geometric attention framework that formulates spatial aggregation as a query-conditioned, metric-induced attention operator in continuous space.</p>
 <ul>
 <li><a href="https://arxiv.org/abs/2601.06135">📄 arXiv publication</a></li>
 <li>📝 Journal Version Under Review</li>
 </ul>
 </td>
 <td>
-<h4>🧠 Event-Retrieve-Action Framework <a href="https://github.com/JaimeFine/event-retrieve-action">(ERA)</a></h4>
-<p>
-An event-centric world-modeling framework that augments embodied decision-making through
-structured memory retrieval.
-</p>
+<h4 align="center">🧠 Event-Retrieve-Action Framework <a href="https://github.com/JaimeFine/event-retrieve-action">(ERA)</a></h4>
+<p>An event-centric world-modeling framework that augments embodied decision-making through structured memory retrieval.</p>
 <ul>
 <li><a href="https://arxiv.org/abs/2604.07392">📄 arXiv publication</a></li>
 <li>📝 Journal Version Under Review</li>
