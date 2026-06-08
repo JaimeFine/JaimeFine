@@ -26,13 +26,16 @@ jobs:
           repositories_forks: no
           repositories_skipped: |
             collab
+            thesis
             event-retrieve-action-deprecated
+            simple-gesture-recognition-model
           plugin_languages_indepth_custom: |
             */*@main
           plugin_languages: yes
           plugin_languages_skipped: |
             collab
             thesis
+            event-retrieve-action-deprecated
             simple-gesture-recognition-model
           plugin_languages_indepth: no
           plugin_languages_sections: most-used
