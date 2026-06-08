@@ -148,6 +148,9 @@ Started computer science learning
   </a>
 -->
   <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.languages.svg" alt="Languages Activity" /></p>
+  <p align="center">
+    <sub>The language activity plot does not include research repos</sub>
+  </p>
   <p><img src="https://github.com/JaimeFine/JaimeFine/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" /></p>  
 </div>
 
@@ -179,7 +182,7 @@ Started computer science learning
 </p>
 
 <p align="center">
-  <sub>© JaimeFine — Last manually updated: 2026/6/6</sub>
+  <sub>© JaimeFine — Last manually updated: 2026/6/8</sub>
 </p>
 
 <!--
