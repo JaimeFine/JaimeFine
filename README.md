@@ -55,6 +55,14 @@ Recently, I've been working on scalable learning systems, simulation-driven rese
 <li>📝 Journal Version Under Review</li>
 </ul>
 </td>
+<td>
+<h4 align="center">🛸 Swarm Policy Interference Network <a href="https://github.com/JaimeFine/swarm-policy-interference-network">(SPIN)</a></h4>
+<p>An architectural paradigm that bypasses these limitations by modeling swarm topologies as a compressed tensor network.</p>
+<ul>
+<li><a href="https://arxiv.org/abs/2606.07557">📄 arXiv publication</a></li>
+<li>📝 Still progressing</li>
+</ul>
+</td>
 </tr>
 </table>
 
