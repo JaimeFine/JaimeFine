@@ -190,7 +190,7 @@ Started computer science learning
 </p>
 
 <p align="center">
-  <sub>© JaimeFine — Last manually updated: 2026/6/8</sub>
+  <sub>© JaimeFine — Last manually updated: 2026/6/9</sub>
 </p>
 
 <!--
