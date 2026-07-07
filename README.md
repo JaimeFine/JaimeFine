@@ -115,9 +115,7 @@ Jetson Orin Nano | Raspberry Pi 4 | Kintex 7 (ISE 14.7) | ESP32 XIAO
 - ⚡ CUDA & GPU Computing
 - 🧠 Statistical Machine Learning
 - 🤖 Multi-Agent Reinforcement Learning
-- 🧬 Evolutionary Computation
 - 🦾 Embodied AI & Robotics
-- 📈 Optimization Theory
 
 <!---
 
@@ -190,7 +188,7 @@ Started computer science learning
 </p>
 
 <p align="center">
-  <sub>© JaimeFine — Last manually updated: 2026/6/9</sub>
+  <sub>© JaimeFine — Last manually updated: 2026/7/7</sub>
 </p>
 
 <!--
