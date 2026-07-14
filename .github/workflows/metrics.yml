@@ -31,6 +31,7 @@ jobs:
             event-retrieve-action
             adaptive-density-field
             swarm-policy-interference-network
+            dsa-cpp
           plugin_languages_indepth_custom: |
             */*@main
           plugin_languages: yes
@@ -41,6 +42,7 @@ jobs:
             event-retrieve-action
             adaptive-density-field
             swarm-policy-interference-network
+            dsa-cpp
           plugin_languages_indepth: no
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
