@@ -40,7 +40,7 @@ Recently, I've been working on scalable learning systems, simulation-driven rese
 <table>
 <tr>
 <td>
-<h4 align="center">🌀 Adaptive Density Field <a href="https://github.com/JaimeFine/adaptive-density-field">(ADF)</a></h4>
+<h4 align="center">🌀 <a href="https://github.com/JaimeFine/adaptive-density-field">Adaptive Density Field</a></h4>
 <p>A geometric attention framework that formulates spatial aggregation as a query-conditioned, metric-induced attention operator in continuous space.</p>
 <ul>
 <li><a href="https://arxiv.org/abs/2601.06135">📄 arXiv publication</a></li>
@@ -48,7 +48,7 @@ Recently, I've been working on scalable learning systems, simulation-driven rese
 </ul>
 </td>
 <td>
-<h4 align="center">🧠 Event-Retrieve-Action Framework <a href="https://github.com/JaimeFine/event-retrieve-action">(ERA)</a></h4>
+<h4 align="center">🧠 <a href="https://github.com/JaimeFine/event-retrieve-action">Event-Retrieve-Action Framework</a></h4>
 <p>An event-centric world-modeling framework that augments embodied decision-making through structured memory retrieval.</p>
 <ul>
 <li><a href="https://arxiv.org/abs/2604.07392">📄 arXiv publication</a></li>
@@ -56,11 +56,36 @@ Recently, I've been working on scalable learning systems, simulation-driven rese
 </ul>
 </td>
 <td>
-<h4 align="center">🛸 Swarm Policy Interference Network <a href="https://github.com/JaimeFine/swarm-policy-interference-network">(SPIN)</a></h4>
+<h4 align="center">🛸 <a href="https://github.com/JaimeFine/swarm-policy-interference-network">Swarm Policy Interference Network</a></h4>
 <p>An architectural paradigm that bypasses these limitations by modeling swarm topologies as a compressed tensor network.</p>
 <ul>
 <li><a href="https://arxiv.org/abs/2606.07557">📄 arXiv publication</a></li>
 <li>📝 Still progressing</li>
+</ul>
+</td>
+</tr>
+</table>
+
+### Engineering & Leadership Projects
+
+<table>
+<tr>
+<td>
+<h4 align="center">🚆 <a href="https://github.com/JaimeFine/train-ticket-management-system">Train Ticket Management System</a></h4>
+<p>A Qt Widgets & C++17 & SQLite desktop system for train ticket booking, trip scheduling, route recommendation, dynamic pricing, and multi-role management.</p>
+<ul>
+<li>🧩 Led integration of multi-branch feature work into a stable final release</li>
+<li>🛠️ Coordinated bug fixing, conflict resolution, documentation, demo prep, and release packaging</li>
+<li>📦 Delivered a V2 trip-based ticketing workflow with dynamic pricing, train/trip management, and role-based operations</li>
+</ul>
+</td>
+<td>
+<h4 align="center">⚡ <a href="https://github.com/JaimeFine/cuNexis">cuNexis</a></h4>
+<p>An experimental CUDA/C++ numerical library focused on explicit GPU resource management, workspace-oriented execution, and reusable linear-algebra-style primitives.</p>
+<ul>
+<li>🧱 Built core infrastructure including <code>CUDAContext</code>, <code>Status</code>, <code>DeviceBuffer</code>, <code>Workspace</code>, and stream/event utilities</li>
+<li>📐 Implemented GPU-oriented modules for pairwise distance, scatter matrices, PCA, and LDA</li>
+<li>🛠️ Designed as a pre-release systems project with explicit ownership, predictable memory behavior, and Jetson-targeted runtime validation</li>
 </ul>
 </td>
 </tr>
@@ -171,11 +196,12 @@ Started computer science learning
   <img src="icons/linux-original.svg" width="50" height="50">
   <img src="icons/latex-original.svg" width="50" height="50">
   <img src="icons/jupyter-original.svg" width="50" height="50">
-  <img src="icons/pandas-original.svg" width="50" height="50">
+  <img src="icons/git-original.svg" width="50" height="50">
   <img src="icons/pytorch-original.svg" width="50" height="50">
   <img src="icons/tensorflow-original.svg" width="50" height="50">
-  <img src="icons/keras-original.svg" width="50" height="50">
   <!--
+  <img src="icons/pandas-original.svg" width="50" height="50">
+  <img src="icons/keras-original.svg" width="50" height="50">
   <img src="icons/opencv-original.svg" width="50" height="50">
   <img src="icons/ubuntu-original.svg" width="50" height="50">
   <img src="icons/html5-original.svg" width="50" height="50">
@@ -188,7 +214,7 @@ Started computer science learning
 </p>
 
 <p align="center">
-  <sub>© JaimeFine — Last manually updated: 2026/7/7</sub>
+  <sub>© JaimeFine — Last manually updated: 2026/7/15</sub>
 </p>
 
 <!--
