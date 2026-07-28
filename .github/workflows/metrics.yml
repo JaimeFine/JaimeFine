@@ -32,6 +32,7 @@ jobs:
             adaptive-density-field
             swarm-policy-interference-network
             dsa-cpp/homeworks
+            JaimeFine.github.io
           plugin_languages_indepth_custom: |
             train-ticket-management-system@feature/database-init
             train-ticket-management-system@feature/database-crud
@@ -46,6 +47,7 @@ jobs:
             swarm-policy-interference-network
             dsa-cpp/homeworks
             train-ticket-management-system
+            JaimeFine.github.io
           plugin_languages_indepth: no
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
