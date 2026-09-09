@@ -13,14 +13,14 @@
   🌟 About Me
 </h2>
 
-I'm a Computer Science sophomore student interested in the intersection of
+I'm a Computer Science juninor student interested in the intersection of
 
-- ⚡ High-Performance Computing
+- ⚡ Adaptive Intelligence & Machine Learning
 - 🧠 Statistical & Interpretable Machine Learning  
 - 🤖 Embodied AI & Autonomous Systems  
 - 🦾 Robotics and Edge Deployment
 
-Recently, I've been working on scalable learning systems, simulation-driven research, and GPU-accelerated computing. My projects range from multi-agent reinforcement learning frameworks and evolutionary algorithms to hardware-aware AI deployment.
+Recently, I've been working on stability-plasticity & resource efficiency problem (research). My current projects range from end-to-end agent development, encompassing MCP design, Agent and tooling architecture, and deployment (also TTS & STT stuff) to GPU accelerated computing and exploring physics-simulation.
 
 <h3>🌍 Beyond Computing</h3>
 
@@ -60,7 +60,7 @@ Recently, I've been working on scalable learning systems, simulation-driven rese
 <p>An architectural paradigm that bypasses these limitations by modeling swarm topologies as a compressed tensor network.</p>
 <ul>
 <li><a href="https://arxiv.org/abs/2606.07557">📄 arXiv publication</a></li>
-<li>📝 Still progressing</li>
+<li>📝 Journal Version Under Review</li>
 </ul>
 </td>
 </tr>
@@ -105,7 +105,7 @@ Collection of GPU computing projects exploring:
 - Performance profiling
 -->
 
-### Experience
+### Experience (since college)
 
 - Contributed to a National Natural Science Foundation of China (NSFC) research project (Grant No. 62273244).
 - Completed the UT Austin Global Summer Institute program (Summer 2025).
@@ -113,17 +113,17 @@ Collection of GPU computing projects exploring:
 ---
 
 <h2 align="center">
-  ⚙️ Tech Stack
+  ⚙️ Tech Stack (Robust ones / Daily using)
 </h2>
 
 ### Languages
-C/C++ | Python | CUDA | R | Rust | Julia | Bash
+C/C++ | Python | CUDA
 
 ### Frameworks & Simulation
-Isaac Sim | Linux | Jetpack | PettingZoo | PyTorch | TensorFlow | Git | VMware
+Linux | PyTorch | Git | End-to-end Agent Development | Hugging Face | Some NVIDIA Stuff
 
 ### Hardware & Robotics
-Jetson Orin Nano | Raspberry Pi 4 | Kintex 7 (ISE 14.7) | ESP32 XIAO
+Jetson Orin Nano Super 4GB
 
 <!--
 ### Research Experience
@@ -134,12 +134,12 @@ Jetson Orin Nano | Raspberry Pi 4 | Kintex 7 (ISE 14.7) | ESP32 XIAO
 ---
 
 <h2 align="center">
-  🎯 Current Focus
+  🎯 Current Learning Focus
 </h2>
 
 - ⚡ CUDA & GPU Computing
 - 🧠 Statistical Machine Learning
-- 🤖 Multi-Agent Reinforcement Learning
+- 🤖 Stability-Plasticity Problem
 - 🦾 Embodied AI & Robotics
 
 <!---
@@ -214,7 +214,7 @@ Started computer science learning
 </p>
 
 <p align="center">
-  <sub>© JaimeFine — Last manually updated: 2026/7/15</sub>
+  <sub>© JaimeFine — Last manually updated: 2026/09/09</sub>
 </p>
 
 <!--
