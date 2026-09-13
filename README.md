@@ -113,7 +113,7 @@ Collection of GPU computing projects exploring:
 ---
 
 <h2 align="center">
-  ⚙️ Tech Stack (Robust ones / Daily using)
+  ⚙️ Primary Tech Stack
 </h2>
 
 ### Languages
@@ -214,7 +214,7 @@ Started computer science learning
 </p>
 
 <p align="center">
-  <sub>© JaimeFine — Last manually updated: 2026/09/09</sub>
+  <sub>© JaimeFine — Last manually updated: 2026/09/13</sub>
 </p>
 
 <!--
