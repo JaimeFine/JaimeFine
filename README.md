@@ -1,11 +1,6 @@
 <h1 align="center">
   👋 Hey there, I'm Jaime Fan 
 </h1>
- 
-<div align="center">
-  <p>🎓 Computer Science Student | 🌍 International Collaborator | 🌀 Interdisciplinary Explorer</p>
-  <p>🎨 Artistic Creator | ⚡ Researcher & Systems Builder</p>
-</div>
 
 ---
 
@@ -80,12 +75,13 @@ Recently, I've been working on stability-plasticity & resource efficiency proble
 </ul>
 </td>
 <td>
-<h4 align="center">⚡ <a href="https://github.com/JaimeFine/cuNexis">cuNexis</a></h4>
-<p>An experimental CUDA/C++ numerical library focused on explicit GPU resource management, workspace-oriented execution, and reusable linear-algebra-style primitives.</p>
+<h4 align="center">🤖 <a href="https://github.com/Trisoma/odessy">Odessy</a></h4>
+<p>An open-source, voice-first, model-agnostic AI agent runtime for orchestrating software tools and connected devices through policy-governed automation.</p>
 <ul>
-<li>🧱 Built core infrastructure including <code>CUDAContext</code>, <code>Status</code>, <code>DeviceBuffer</code>, <code>Workspace</code>, and stream/event utilities</li>
-<li>📐 Implemented GPU-oriented modules for pairwise distance, scatter matrices, PCA, and LDA</li>
-<li>🛠️ Designed as a pre-release systems project with explicit ownership, predictable memory behavior, and Jetson-targeted runtime validation</li>
+<li>🧠 Built an extensible agent runtime with STT/LLM/TTS integration, MCP tool calling, authorization policies, and human-in-the-loop approvals</li>
+<li>🔗 Developed a multi-host architecture spanning Python orchestration, Rust-based secure connectivity, TypeScript tool servers, and Go monitoring</li>
+<li>🖥️ Integrated a Flutter desktop interface with support for local/cloud models and experimental Jetson–laptop deployment</li>
+<li>🚀 Released <code>v0.5.0-unstable</code> under <a href="https://github.com/Trisoma">TRISOMA</a>, welcoming open-source contributors to help advance agentic automation and device orchestration</li>
 </ul>
 </td>
 </tr>
@@ -214,7 +210,7 @@ Started computer science learning
 </p>
 
 <p align="center">
-  <sub>© JaimeFine — Last manually updated: 2026/09/13</sub>
+  <sub>© JaimeFine — Last manually updated: 2026/11/2</sub>
 </p>
 
 <!--
